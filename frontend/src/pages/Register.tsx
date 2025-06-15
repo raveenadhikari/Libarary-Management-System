@@ -100,7 +100,7 @@ function Register() {
             )}
             {confirm && password === confirm && confirm.length > 0 && (
               <div className="password-strength strength-strong">
-                Passwords match! ✓
+                Passwords match! 
               </div>
             )}
           </div>
